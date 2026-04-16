@@ -1,0 +1,21 @@
+scenario_id,model,tone,target_word_limit,generated_word_count,facts_covered,facts_required,fact_recall_score,tone_accuracy_score,clarity_score,average_score,intent
+S01,llama-3.3-70b-versatile,formal,754,454,3,3,1.0,0.78,0.6,0.7933,Request one day of work from home due to a maintenance issue at home
+S02,llama-3.3-70b-versatile,professional,214,125,3,4,0.75,0.88,1.0,0.8767,Follow up with finance team on a delayed reimbursement
+S03,llama-3.3-70b-versatile,apologetic,125,50,2,3,0.6667,0.86,0.9,0.8089,Apologize to a client for sending the wrong attachment
+S04,llama-3.3-70b-versatile,urgent,859,467,3,4,0.75,0.96,0.6,0.77,Send an urgent escalation to IT about production outage
+S05,llama-3.3-70b-versatile,friendly,381,260,3,3,1.0,0.88,0.6,0.8267,Invite team members to sprint retrospective
+S06,llama-3.3-70b-versatile,formal,350,172,2,3,0.6667,0.85,1.0,0.8389,Request deadline extension from manager
+S07,llama-3.3-70b-versatile,appreciative,328,199,3,3,1.0,0.93,0.905,0.945,Thank a vendor for quick turnaround on a contract revision
+S08,llama-3.3-70b-versatile,casual,242,108,3,3,1.0,0.38,1.0,0.7933,Remind intern about pending onboarding tasks
+S09,llama-3.3-70b-versatile,polite,854,483,3,3,1.0,0.93,0.6,0.8433,Reject a feature request while keeping relationship positive
+S10,llama-3.3-70b-versatile,informative,204,108,3,3,1.0,0.88,1.0,0.96,Announce office closure for a regional holiday
+S01,llama-3.1-8b-instant,formal,754,171,3,3,1.0,0.86,1.0,0.9533,Request one day of work from home due to a maintenance issue at home
+S02,llama-3.1-8b-instant,professional,214,110,3,4,0.75,0.88,1.0,0.8767,Follow up with finance team on a delayed reimbursement
+S03,llama-3.1-8b-instant,apologetic,125,130,2,3,0.6667,0.86,1.0,0.8422,Apologize to a client for sending the wrong attachment
+S04,llama-3.1-8b-instant,urgent,859,206,4,4,1.0,0.96,0.87,0.9433,Send an urgent escalation to IT about production outage
+S05,llama-3.1-8b-instant,friendly,381,216,3,3,1.0,0.88,0.82,0.9,Invite team members to sprint retrospective
+S06,llama-3.1-8b-instant,formal,350,175,2,3,0.6667,0.85,1.0,0.8389,Request deadline extension from manager
+S07,llama-3.1-8b-instant,appreciative,328,141,3,3,1.0,0.93,1.0,0.9767,Thank a vendor for quick turnaround on a contract revision
+S08,llama-3.1-8b-instant,casual,242,120,3,3,1.0,0.45,1.0,0.8167,Remind intern about pending onboarding tasks
+S09,llama-3.1-8b-instant,polite,854,273,3,3,1.0,0.92,0.6,0.84,Reject a feature request while keeping relationship positive
+S10,llama-3.1-8b-instant,informative,204,125,3,3,1.0,0.88,1.0,0.96,Announce office closure for a regional holiday

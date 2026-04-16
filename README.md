@@ -64,6 +64,22 @@ Option 2C generates:
 - `clarity_score`: readability heuristic (word/sentence/structure quality)
 - `average_score`: mean of the three metrics above
 
+### Role of Judge LLM
+
+- The judge model (`JUDGE_MODEL`) is used only for `tone_accuracy_score`.
+- It does **not** generate emails and does **not** control all evaluation.
+- Metric ownership is:
+  - `fact_recall_score` -> rule/code based
+  - `clarity_score` -> heuristic/code based
+  - `tone_accuracy_score` -> Judge LLM
+
+### Why We Evaluate
+
+- To measure quality objectively before production use.
+- To compare models fairly on the exact same scenarios.
+- To identify failure modes (missing facts, weak tone control, low clarity).
+- To make a data-backed recommendation in Stage 3.
+
 ## Stage 3 Outputs
 
 Option 3 generates:

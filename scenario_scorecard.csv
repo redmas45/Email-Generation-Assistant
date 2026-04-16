@@ -1,0 +1,11 @@
+scenario_id,tone,target_word_limit,llama-3.3-70b-versatile_generated_words,llama-3.1-8b-instant_generated_words,llama-3.3-70b-versatile_fact_recall,llama-3.1-8b-instant_fact_recall,llama-3.3-70b-versatile_tone_accuracy,llama-3.1-8b-instant_tone_accuracy,llama-3.3-70b-versatile_clarity,llama-3.1-8b-instant_clarity,llama-3.3-70b-versatile_average,llama-3.1-8b-instant_average,winner_by_average
+S01,formal,754,454,171,1.0,1.0,0.78,0.86,0.6,1.0,0.7933,0.9533,llama-3.1-8b-instant
+S02,professional,214,125,110,0.75,0.75,0.88,0.88,1.0,1.0,0.8767,0.8767,tie
+S03,apologetic,125,50,130,0.6667,0.6667,0.86,0.86,0.9,1.0,0.8089,0.8422,llama-3.1-8b-instant
+S04,urgent,859,467,206,0.75,1.0,0.96,0.96,0.6,0.87,0.77,0.9433,llama-3.1-8b-instant
+S05,friendly,381,260,216,1.0,1.0,0.88,0.88,0.6,0.82,0.8267,0.9,llama-3.1-8b-instant
+S06,formal,350,172,175,0.6667,0.6667,0.85,0.85,1.0,1.0,0.8389,0.8389,tie
+S07,appreciative,328,199,141,1.0,1.0,0.93,0.93,0.905,1.0,0.945,0.9767,llama-3.1-8b-instant
+S08,casual,242,108,120,1.0,1.0,0.38,0.45,1.0,1.0,0.7933,0.8167,llama-3.1-8b-instant
+S09,polite,854,483,273,1.0,1.0,0.93,0.92,0.6,0.6,0.8433,0.84,tie
+S10,informative,204,108,125,1.0,1.0,0.88,0.88,1.0,1.0,0.96,0.96,tie
