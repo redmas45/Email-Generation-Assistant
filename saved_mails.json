@@ -1,0 +1,72 @@
+[
+  {
+    "scenario_id": "S01",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 754,
+    "generated_word_count": 157,
+    "email": "Subject: Request for Work From Home Due to Maintenance Issue\n\nDear Manager,\n\nI am writing to request permission to work from home for one day due to a scheduled water pipeline repair at my residence. The maintenance work is scheduled to take place tomorrow, and I will require access to a stable internet connection to ensure that my work is completed without any disruptions.\n\nI will be available on Slack and phone throughout the day to address any urgent matters that may arise. I have made arrangements to ensure that my work is completed on time, and I am confident that this arrangement will not impact my productivity or the team's overall performance.\n\nI would greatly appreciate it if you could approve my request for work from home tomorrow. If there are any concerns or questions, please do not hesitate to reach out to me.\n\nThank you for your understanding and support.\n\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S02",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 214,
+    "generated_word_count": 132,
+    "email": "### Email:\n\nSubject: Follow-Up on Delayed Reimbursement for Travel Claim TR-8821\n\nDear Finance Team,\n\nI am writing to follow up on the reimbursement for my travel claim with ID TR-8821, which was submitted on 3 April. The claim amount is INR 18,500. As per our company's reimbursement policy, I kindly request that you provide me with an expected payout date for this claim.\n\nI would appreciate it if you could expedite the processing of this claim and keep me informed of any updates or requirements needed from my end. If there are any additional documents or information required, please let me know as soon as possible.\n\nThank you for your attention to this matter, and I look forward to hearing back from you soon.\n\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S03",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 125,
+    "generated_word_count": 107,
+    "email": "Subject: Apology for Incorrect Attachment and Update on Proposal\n\nDear [Client],\n\nI am writing to apologize for attaching the incorrect proposal version earlier. I understand the importance of accuracy and I fell short of that standard. Please find the correct file attached to this email.\n\nI would like to offer a brief call to walk you through the updates and changes made to the proposal. This will ensure you have a clear understanding of the revised document. Would you be available for a short call at your convenience?\n\nOnce again, I apologize for the inconvenience caused and appreciate your understanding in this matter.\n\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S04",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 859,
+    "generated_word_count": 210,
+    "email": "### Subject: Urgent Production Outage - Checkout Service Down\n\n### Greeting\nDear IT Team,\n\n### Body\n\nI am writing to escalate a critical issue that requires immediate attention. Our checkout service has been down since 09:15 AM, impacting all web orders. This outage is causing significant disruptions to our operations, and we need to resolve this issue as soon as possible.\n\nThe priority for this issue has been marked as P1, indicating the highest level of urgency. We require an immediate ETA for the fix and a detailed plan for restoring the service. Please provide a clear update on the status and any necessary steps that need to be taken to resolve this issue.\n\nIn the meantime, please coordinate with the development team to identify the root cause of the issue and implement a temporary workaround to minimize the impact on our customers. We need to ensure that all web orders are processed smoothly and without any further delays.\n\nPlease treat this issue as a top priority and provide regular updates on the status. If there are any concerns or questions, please do not hesitate to reach out to me directly.\n\n### Closing\n\nThank you for your prompt attention to this matter. I look forward to hearing from you soon.\n\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S05",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 381,
+    "generated_word_count": 236,
+    "email": "### Subject: Join Our Sprint Retrospective Meeting\n\n### Greeting:\nHi Team,\n\n### Body:\nI hope this email finds you well. As we near the end of our sprint, it's time for us to reflect on our progress, discuss what went well, and identify areas for improvement. I'm excited to invite you all to our sprint retrospective meeting, which will take place this Friday at 4 PM.\n\nWe'll be using Google Meet for the meeting, and I'll share the link with you all separately. During the meeting, we'll cover the following agenda points:\n\n* Wins: Celebrating our successes and accomplishments\n* Blockers: Identifying and discussing any challenges we faced\n* Action Items: Brainstorming and assigning tasks to move forward\n\nThis meeting is a great opportunity for us to come together, share our thoughts, and work collaboratively to improve our processes. Your input and participation are invaluable, and I'm looking forward to hearing your thoughts and ideas.\n\nIf you have any questions or concerns before the meeting, please don't hesitate to reach out. I'm always here to help.\n\n### Closing:\nThanks in advance for your time and participation. I'm looking forward to seeing you all on Friday.\n\nBest regards,\nRajiv Kumar\n\n### Self-Check:\n- All facts are included: meeting on Friday at 4 PM, Google Meet link will be shared, agenda includes wins blockers action items\n- Tone matches exactly: friendly\n- Word count is within range: 381 words"
+  },
+  {
+    "scenario_id": "S06",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 350,
+    "generated_word_count": 217,
+    "email": "### Subject: Request for Deadline Extension\n\n### Greeting:\nDear Manager,\n\n### Body:\nI am writing to request a deadline extension for the ongoing project. Due to unforeseen circumstances, the API dependency that was required for the project was delivered two days late. Despite this setback, our team has diligently worked to ensure that we stay on track with the project's objectives.\n\nAs of now, our team has completed approximately 80 percent of the project tasks, and we are confident that we can meet the project's requirements within the revised timeframe. However, considering the delayed API delivery, we kindly request an extension until Monday to ensure that we can complete the project to the best of our abilities.\n\nI would like to assure you that our team is committed to delivering high-quality results, and we are working diligently to meet the project's deadlines. The revised deadline will enable us to complete the project without compromising on its quality.\n\nI would appreciate it if you could consider our request for a deadline extension. If there are any concerns or questions, please do not hesitate to reach out to me. I am more than happy to discuss this further and provide any necessary updates.\n\nThank you for your understanding and support in this matter.\n\n### Closing:\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S07",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 328,
+    "generated_word_count": 169,
+    "email": "### Email:\n\nSubject: Appreciation for Quick Contract Revision\n\nDear [Vendor's Name],\n\nI am writing to express my sincere appreciation for the swift turnaround on the contract revision. We received the revised contract within 24 hours, which is truly impressive. Our legal team has reviewed and approved version 5, and we are now ready to move forward with the next steps.\n\nI would like to extend my gratitude to your team for their diligence and efficiency in completing the revision. Your prompt response has enabled us to meet our project timelines, and we are grateful for your contribution to this success.\n\nAs a next step, our procurement team will raise a purchase order (PO) tomorrow, and we will proceed with the necessary arrangements. Please let us know if you require any further information or documentation from our end.\n\nThank you again for your excellent service and for being a valuable partner in our project. We look forward to continuing our collaboration and achieving our goals together.\n\nBest regards,\n\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S08",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 242,
+    "generated_word_count": 103,
+    "email": "### Email:\n\nSubject: Reminder: Onboarding Tasks Due Thursday\n\nHey [Intern's Name],\n\nHope you're settling in well. I just wanted to remind you about the onboarding tasks that are still pending. To ensure a smooth transition, please make sure to complete the following by the end of the day on Thursday:\n\n- Submit your signed Non-Disclosure Agreement (NDA)\n- Complete the security training module\n\nThese tasks are crucial for your access to our systems and data. If you have any questions or concerns, feel free to reach out to me directly.\n\nLooking forward to seeing those tasks completed by Thursday.\n\nBest regards,\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S09",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 854,
+    "generated_word_count": 281,
+    "email": "Subject: Appreciation for Feature Request and Future Planning\n\nDear [Customer Name],\n\nI would like to start by expressing my gratitude for taking the time to share your feature request with us. We appreciate your enthusiasm for our product and the value you see in its potential to enhance your workflow. Your input is invaluable to us, and we're always eager to learn about how our customers are using our product to drive their success.\n\nRegarding the feature you requested, I wanted to let you know that it's not currently included in our roadmap for this quarter. However, we do plan to revisit this feature in our Q4 planning, and we'll take your feedback into consideration when making our final decisions.\n\nIn the meantime, we'd love to hear more about your top use cases and how you envision our product helping you achieve your goals. Your insights will not only help us better understand your needs but also inform our product development process. If you're willing, we'd be happy to schedule a call to discuss your use cases in more detail.\n\nPlease know that we're committed to delivering a product that meets the evolving needs of our customers, and we appreciate your patience and understanding as we work to prioritize our roadmap. We're confident that our continued collaboration will lead to a more tailored solution that exceeds your expectations.\n\nOnce again, thank you for your feature request and for being an integral part of our community. We look forward to the opportunity to discuss your use cases further and explore ways to enhance our product to better serve your needs.\n\nBest regards,\n\nRajiv Kumar"
+  },
+  {
+    "scenario_id": "S10",
+    "model": "llama-3.1-8b-instant",
+    "target_word_limit": 204,
+    "generated_word_count": 112,
+    "email": "### Email:\n\nSubject: Office Closure on 1 May - Important Notice\n\nDear Team,\n\nAs we approach the regional holiday, I would like to inform you that our office will be closed on 1 May. This is a scheduled holiday and all employees will be taking the day off.\n\nIn case of any critical incidents or urgent matters, our support team will be available to assist. However, please note that normal operations will resume on 2 May.\n\nI would like to remind everyone to make necessary arrangements and plan accordingly. If you have any questions or concerns, please reach out to the support team.\n\nThank you for your understanding and cooperation.\n\nBest regards,\nRajiv Kumar"
+  }
+]

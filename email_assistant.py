@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+DEFAULT_MODEL = os.getenv("MODEL_1", "llama-3.3-70b-versatile")
 
 
 # -----------------------------
@@ -246,7 +247,7 @@ Email:
 # -----------------------------
 # Email Generator
 # -----------------------------
-def generate_email(intent, facts, tone, word_limit, model="llama-3.3-70b-versatile"):
+def generate_email(intent, facts, tone, word_limit, model=DEFAULT_MODEL):
     prompt = build_prompt(intent, facts, tone, word_limit)
 
     response = client.chat.completions.create(
@@ -261,9 +262,9 @@ def generate_email(intent, facts, tone, word_limit, model="llama-3.3-70b-versati
 # -----------------------------
 # Retry Mechanism
 # -----------------------------
-def generate_email_with_retry(intent, facts, tone, word_limit, retries=2):
+def generate_email_with_retry(intent, facts, tone, word_limit, model=DEFAULT_MODEL, retries=2):
     for _ in range(retries):
-        email = generate_email(intent, facts, tone, word_limit)
+        email = generate_email(intent, facts, tone, word_limit, model=model)
         wc = len(email.split())
 
         if word_limit * 0.9 <= wc <= word_limit * 1.1:
@@ -281,7 +282,9 @@ if __name__ == "__main__":
     tone = input("Enter tone: ")
     word_limit = int(input("Enter word limit (e.g., 100): "))
 
-    email = generate_email_with_retry(intent, facts, tone, word_limit)
+    model_name = input(f"Enter model (default: {DEFAULT_MODEL}): ").strip() or DEFAULT_MODEL
+
+    email = generate_email_with_retry(intent, facts, tone, word_limit, model=model_name)
 
     print("\nGenerated Email:\n")
     print(email)

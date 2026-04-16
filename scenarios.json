@@ -1,0 +1,124 @@
+[
+  {
+    "scenario_id": "S01",
+    "intent": "Request one day of work from home due to a maintenance issue at home",
+    "facts": [
+      "water pipeline repair scheduled tomorrow",
+      "requesting work from home for one day",
+      "available on Slack and phone all day"
+    ],
+    "tone": "formal",
+    "word_limit": 120,
+    "reference_email": "Subject: Request to Work From Home for One Day\n\nDear Manager,\nDue to a water pipeline repair scheduled at my home tomorrow, I request approval to work from home for one day. I will remain fully available on Slack and phone throughout working hours and will complete all planned tasks.\n\nKind regards,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S02",
+    "intent": "Follow up with finance team on a delayed reimbursement",
+    "facts": [
+      "travel claim ID TR-8821",
+      "submitted on 3 April",
+      "amount is INR 18,500",
+      "requesting expected payout date"
+    ],
+    "tone": "professional",
+    "word_limit": 130,
+    "reference_email": "Subject: Follow-Up on Reimbursement Status (TR-8821)\n\nDear Finance Team,\nI am following up on my travel reimbursement claim, ID TR-8821, submitted on 3 April for INR 18,500. Could you please share the expected payout date?\n\nBest regards,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S03",
+    "intent": "Apologize to a client for sending the wrong attachment",
+    "facts": [
+      "wrong proposal version attached earlier",
+      "correct file attached now",
+      "offer to walk through updates in a short call"
+    ],
+    "tone": "apologetic",
+    "word_limit": 110,
+    "reference_email": "Subject: Apology and Corrected Proposal Attachment\n\nDear [Client Name],\nI apologize for sending the wrong proposal version earlier. I have now attached the correct file for your review. If helpful, I can walk you through the updates in a short call today.\n\nSincerely,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S04",
+    "intent": "Send an urgent escalation to IT about production outage",
+    "facts": [
+      "checkout service down since 09:15 AM",
+      "impacting all web orders",
+      "priority marked as P1",
+      "need ETA for fix"
+    ],
+    "tone": "urgent",
+    "word_limit": 120,
+    "reference_email": "Subject: P1 Escalation - Checkout Service Outage\n\nDear IT Team,\nThis is an urgent escalation: the checkout service has been down since 09:15 AM and is impacting all web orders. The incident is marked as P1. Please share an immediate ETA for resolution.\n\nRegards,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S05",
+    "intent": "Invite team members to sprint retrospective",
+    "facts": [
+      "meeting on Friday at 4 PM",
+      "Google Meet link will be shared",
+      "agenda includes wins blockers action items"
+    ],
+    "tone": "friendly",
+    "word_limit": 100,
+    "reference_email": "Subject: Sprint Retrospective Invite - Friday 4 PM\n\nHi Team,\nYou are invited to the sprint retrospective on Friday at 4 PM. I will share the Google Meet link shortly. The agenda includes wins, blockers, and action items.\n\nThanks,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S06",
+    "intent": "Request deadline extension from manager",
+    "facts": [
+      "API dependency delivered two days late",
+      "need extension until Monday",
+      "current progress is 80 percent complete"
+    ],
+    "tone": "formal",
+    "word_limit": 125,
+    "reference_email": "Subject: Request for Deadline Extension Until Monday\n\nDear Manager,\nI request a deadline extension until Monday because the API dependency was delivered two days late. The task is currently 80% complete, and I need additional time to finalize and validate the remaining scope.\n\nRegards,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S07",
+    "intent": "Thank a vendor for quick turnaround on a contract revision",
+    "facts": [
+      "revised contract received within 24 hours",
+      "legal team approved version 5",
+      "procurement will raise PO tomorrow"
+    ],
+    "tone": "appreciative",
+    "word_limit": 100,
+    "reference_email": "Subject: Thank You for Quick Contract Revision\n\nDear [Vendor Name],\nThank you for the quick turnaround on the revised contract; we received it within 24 hours. Our legal team has approved version 5, and procurement will raise the PO tomorrow.\n\nBest regards,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S08",
+    "intent": "Remind intern about pending onboarding tasks",
+    "facts": [
+      "submit signed NDA",
+      "complete security training module",
+      "deadline is end of day Thursday"
+    ],
+    "tone": "casual",
+    "word_limit": 90,
+    "reference_email": "Subject: Quick Reminder on Onboarding Tasks\n\nHi [Intern Name],\nFriendly reminder to submit your signed NDA and complete the security training module. Please finish both by end of day Thursday.\n\nThanks,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S09",
+    "intent": "Reject a feature request while keeping relationship positive",
+    "facts": [
+      "feature not in current quarter roadmap",
+      "will revisit in Q4 planning",
+      "invite customer to share top use cases"
+    ],
+    "tone": "polite",
+    "word_limit": 120,
+    "reference_email": "Subject: Update on Feature Request\n\nDear [Customer Name],\nThank you for sharing this feature request. It is not in our current quarter roadmap, but we plan to revisit it during Q4 planning. Please share your top use cases so we can evaluate priority more effectively.\n\nBest,\n[Your Name]"
+  },
+  {
+    "scenario_id": "S10",
+    "intent": "Announce office closure for a regional holiday",
+    "facts": [
+      "office closed on 1 May",
+      "support team available only for critical incidents",
+      "normal operations resume on 2 May"
+    ],
+    "tone": "informative",
+    "word_limit": 110,
+    "reference_email": "Subject: Office Closure Notice - 1 May\n\nDear Team,\nPlease note that the office will be closed on 1 May for the regional holiday. The support team will be available only for critical incidents. Normal operations will resume on 2 May.\n\nRegards,\n[Your Name]"
+  }
+]
